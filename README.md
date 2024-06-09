@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Identity**: A graduating *Computer Science* student @ Universiti Tunku Abdul Rahman, Malaysia.
+Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman, Malaysia.
 
 **Aim**: I am looking for a permanent job in Singapore.
 
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 8. Cloud computing - Alibaba Cloud, Amazon Web Services
 
 ## Final Year Project
-1. ShopRecog: 
+1. ShopRecog: https://github.com/ziyikhoo456/ShopRecog
 
