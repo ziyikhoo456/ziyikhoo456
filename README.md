@@ -24,11 +24,12 @@ Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman
 *Disclaimer: All the projects below is group assignment. Only 1/4 credit to me.*
 1. Deep Learning - Python and TensorFlow :
 2. C++ :
+- https://github.com/ziyikhoo456/Library_Management_System
 3. Java :
 4. Website Development - HTML, CSS, Javascript, PHP : https://github.com/ziyikhoo456/online_order_management_system
-6. Mobile Apps Development - Java : https://github.com/ziyikhoo456/Food_Hunter
-7. Database Management - SQL
-8. Cloud computing - Alibaba Cloud, Amazon Web Services
+5. Mobile Apps Development - Java : https://github.com/ziyikhoo456/Food_Hunter
+6. Database Management - SQL
+7. Cloud computing - Alibaba Cloud, Amazon Web Services
 
 ## Final Year Project
 1. ShopRecog: https://github.com/ziyikhoo456/ShopRecog
