@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman, Malaysia.
 
-**Aim**: I am looking for a permanent job in Singapore.
-
-**Contact**: You can reach me at ziyikhoo456@hotmail.com.
+- I am looking for a permanent job in Singapore.
+- You can reach me at ziyikhoo456@hotmail.com.
 
 ## SkillSet
 *Disclaimer: All the projects below is group assignment. Only 1/4 credit to me.*
