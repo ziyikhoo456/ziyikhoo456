@@ -28,7 +28,7 @@ Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman
 - (Linked List) https://github.com/ziyikhoo456/Library_Management_System
 - (Binary Tree) https://github.com/ziyikhoo456/Binary-Search-Tree
 
-3. Java :
+3. Java : https://github.com/ziyikhoo456/Hospital-Management-System
 
 4. Website Development - HTML, CSS, Javascript, PHP : https://github.com/ziyikhoo456/online_order_management_system
 
