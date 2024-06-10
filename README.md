@@ -25,7 +25,8 @@ Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman
 1. Deep Learning - Python and TensorFlow :
 
 2. C++ :
-- https://github.com/ziyikhoo456/Library_Management_System
+- (Linked List) https://github.com/ziyikhoo456/Library_Management_System
+- (Binary Tree)
 
 3. Java :
 
