@@ -26,7 +26,7 @@ Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman
 
 2. C++ :
 - (Linked List) https://github.com/ziyikhoo456/Library_Management_System
-- (Binary Tree)
+- (Binary Tree) https://github.com/ziyikhoo456/Binary-Search-Tree
 
 3. Java :
 
