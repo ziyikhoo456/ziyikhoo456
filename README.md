@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman, Malaysia.
 
-- I am looking for a full-time job in Singapore.
+- I am looking for a full-time job.
 - You can reach me at ziyikhoo456@hotmail.com.
 <br><br>
 ## SkillSet
