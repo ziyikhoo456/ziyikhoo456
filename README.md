@@ -19,25 +19,29 @@ Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman
 
 - I am looking for a full-time job in Singapore.
 - You can reach me at ziyikhoo456@hotmail.com.
-
+<br><br>
 ## SkillSet
 
-1. Facial Expression Recognition System - Python and TensorFlow : https://www.kaggle.com/code/khoowindy/facial-expression-recognition-system
+1. Deep Learning - Facial Expression Recognition System
+   - Python and TensorFlow : https://www.kaggle.com/code/khoowindy/facial-expression-recognition-system
 
-2. C++ :
-- (Linked List) https://github.com/ziyikhoo456/Library_Management_System
-- (Binary Tree) https://github.com/ziyikhoo456/Binary-Search-Tree
+3. Data Structures and Algorithmic Problem Solving in C++
+   - Linked List: https://github.com/ziyikhoo456/Library_Management_System
+   - Binary Tree: https://github.com/ziyikhoo456/Binary-Search-Tree
 
-3. Java : https://github.com/ziyikhoo456/Hospital-Management-System
+3. Object-oriented Programming Practices
+   - Java: https://github.com/ziyikhoo456/Hospital-Management-System
 
-4. Website Development - HTML, CSS, Javascript, PHP : https://github.com/ziyikhoo456/online_order_management_system
+5. Server-side Web Application Development
+   - HTML, CSS, Javascript, PHP: https://github.com/ziyikhoo456/online_order_management_system
 
-5. Mobile Apps Development - Java : https://github.com/ziyikhoo456/Food_Hunter
+7. Mobile Application Development
+   - Java : https://github.com/ziyikhoo456/Food_Hunter
 
-6. Database Management - SQL
+9. Database Management - SQL
 
-7. Cloud computing - Alibaba Cloud, Amazon Web Services
-
+10. Cloud computing - Alibaba Cloud, Amazon Web Services
+<br><br>
 ## Final Year Project
 
 1. ShopRecog: https://github.com/ziyikhoo456/ShopRecog
