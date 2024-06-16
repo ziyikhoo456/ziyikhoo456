@@ -22,7 +22,7 @@ Hi, I am a graduating *Computer Science* student @ Universiti Tunku Abdul Rahman
 
 ## SkillSet
 
-1. Deep Learning - Python and TensorFlow :
+1. Facial Expression Recognition System - Python and TensorFlow : https://www.kaggle.com/code/khoowindy/facial-expression-recognition-system
 
 2. C++ :
 - (Linked List) https://github.com/ziyikhoo456/Library_Management_System
